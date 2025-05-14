@@ -11,8 +11,8 @@ Hello, I'm Daniela Martins and I'm in a career transition from administration to
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielamartinscosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielamartinscosta&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielamartinscosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="40%" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielamartinscosta&theme=dark&hide_border=false" width="44%" height="180" />
 </div>
 
 <br/>
